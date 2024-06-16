@@ -1,0 +1,4 @@
+PyYAML
+requests
+prometheus-client
+python-dateutil
